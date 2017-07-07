@@ -1,1 +1,3 @@
 # janeStreetPuzzles
+
+solutions and stuff
